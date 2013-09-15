@@ -1,0 +1,22 @@
+# 1127 - Macva
+
+# County Title
+title = c_macva
+
+# Settlements
+max_settlements = 3
+
+b_debrec = castle
+b_macva = city
+#b_sirmium = temple
+
+
+# Misc
+culture = serbian
+religion = orthodox
+
+# History
+988.1.1 = {religion = catholic }
+
+
+

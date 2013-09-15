@@ -1,0 +1,24 @@
+# 943 - Knin
+
+# County Title
+title = c_knin
+
+# Settlements
+max_settlements = 4
+
+b_knin = castle
+b_sibenik = city
+b_bribir = city
+
+#b_benkovac = castle
+#b_obrovac = castle
+
+# Misc
+culture = croatian
+religion = orthodox
+
+# History
+900.1.1 = {religion = catholic }
+
+
+

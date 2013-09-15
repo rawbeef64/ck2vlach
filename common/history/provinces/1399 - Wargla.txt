@@ -1,0 +1,20 @@
+# 1399 - Wargla
+
+# County Title
+title = c_wargla
+
+# Settlements
+max_settlements = 1
+
+b_ouargla = castle
+
+# Misc
+culture = zanata
+religion = west_african_pagan
+
+# History
+
+#islamization
+912.1.1 = { religion = ibadi }
+
+

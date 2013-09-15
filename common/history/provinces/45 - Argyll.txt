@@ -1,0 +1,20 @@
+# 45 - Argyll
+
+# County Title
+title = c_argyll
+
+# Settlements
+max_settlements = 3
+b_inveraray = castle
+b_ardchattan = temple
+#b_oban = city
+#b_kilmartin = castle
+
+
+
+# Misc
+culture = scottish
+religion = catholic
+terrain = hills
+
+# History

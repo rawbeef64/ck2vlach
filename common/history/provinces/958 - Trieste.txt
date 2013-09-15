@@ -1,0 +1,21 @@
+# 958 - Trieste
+
+# County Title
+title = c_trieste
+
+# Settlements
+max_settlements = 3
+
+b_trieste = city
+b_porec = temple #German = Parenz, Italian = Parenzo
+#b_koper = temple #German = Gaffers, Italian = Capodistria
+#b_piran = city #German = Piran, Italian = Pirano
+#b_umag = city #German = Humag, Italian = Umago
+#b_duino = castle
+#b_rovinj = castle #German = Ruwein, Italian = Rovigno
+
+# Misc
+culture = karantanci
+religion = catholic
+
+# History
